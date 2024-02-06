@@ -8,8 +8,8 @@ In this project, a SVG Logo maker is created. The user will be able to generate 
 When user try to generate a SVG logo, they need to run the index.js first and answer the questiones showed up, a logo.svg file then will be created after answering all the questions. 
 
 # links
-Github repository:
-Demo URL
+Github repository: https://github.com/snowlxy1202/svg-logo
+Demo URL: https://drive.google.com/file/d/1WgtlqDkqI1l4KB1akG1u8lGs2BlGpFdD/view
 
 # Screenshots
 ![Alt text](image.png)
